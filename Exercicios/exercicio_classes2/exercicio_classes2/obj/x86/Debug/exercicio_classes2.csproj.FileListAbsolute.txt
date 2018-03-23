@@ -1,0 +1,4 @@
+C:\Users\Aluno\Desktop\exercicio_classes2\exercicio_classes2\bin\Debug\exercicio_classes2.exe
+C:\Users\Aluno\Desktop\exercicio_classes2\exercicio_classes2\bin\Debug\exercicio_classes2.pdb
+C:\Users\Aluno\Desktop\exercicio_classes2\exercicio_classes2\obj\x86\Debug\exercicio_classes2.exe
+C:\Users\Aluno\Desktop\exercicio_classes2\exercicio_classes2\obj\x86\Debug\exercicio_classes2.pdb
