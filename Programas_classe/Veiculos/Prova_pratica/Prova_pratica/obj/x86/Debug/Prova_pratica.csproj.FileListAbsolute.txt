@@ -1,0 +1,5 @@
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Prova_pratica\Prova_pratica\bin\Debug\Prova_pratica.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Prova_pratica\Prova_pratica\bin\Debug\Prova_pratica.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Prova_pratica\Prova_pratica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Prova_pratica\Prova_pratica\obj\x86\Debug\Prova_pratica.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Prova_pratica\Prova_pratica\obj\x86\Debug\Prova_pratica.pdb
