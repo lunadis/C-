@@ -40,6 +40,7 @@ namespace Exercicio
            Console.Write("\nCachorro");
            cao.abanarRabo();
            cao.enterrarOsso();
+           cao.Reagir(true);
 
            Console.Write("\nTartaruga");
            rafa.locomover();
