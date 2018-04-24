@@ -1,0 +1,7 @@
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\calculo_maior_tres_valores\calculo_maior_tres_valores\obj\x86\Debug\WindowsFormsApplication1.frmMairValorDeTres.resources
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\calculo_maior_tres_valores\calculo_maior_tres_valores\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\calculo_maior_tres_valores\calculo_maior_tres_valores\obj\x86\Debug\calculo_maior_tres_valores.csproj.GenerateResource.Cache
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\calculo_maior_tres_valores\calculo_maior_tres_valores\bin\Debug\calculo_maior_tres_valores.exe
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\calculo_maior_tres_valores\calculo_maior_tres_valores\bin\Debug\calculo_maior_tres_valores.pdb
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\calculo_maior_tres_valores\calculo_maior_tres_valores\obj\x86\Debug\calculo_maior_tres_valores.exe
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\calculo_maior_tres_valores\calculo_maior_tres_valores\obj\x86\Debug\calculo_maior_tres_valores.pdb

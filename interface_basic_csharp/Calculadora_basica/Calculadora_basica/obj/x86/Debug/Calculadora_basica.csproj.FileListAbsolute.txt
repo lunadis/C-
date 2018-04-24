@@ -1,0 +1,7 @@
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\Calculadora_basica\Calculadora_basica\bin\Debug\Calculadora_basica.exe
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\Calculadora_basica\Calculadora_basica\bin\Debug\Calculadora_basica.pdb
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\Calculadora_basica\Calculadora_basica\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\Calculadora_basica\Calculadora_basica\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\Calculadora_basica\Calculadora_basica\obj\x86\Debug\Calculadora_basica.csproj.GenerateResource.Cache
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\Calculadora_basica\Calculadora_basica\obj\x86\Debug\Calculadora_basica.exe
+F:\Drive\PortableGit\ETEC\C-\interface_basic_csharp\Calculadora_basica\Calculadora_basica\obj\x86\Debug\Calculadora_basica.pdb
