@@ -1,0 +1,7 @@
+C:\Users\Luis Lopes\Desktop\TRABALHOS\Csharp\Calculadora_expressao\Calculadora_expressao\Calculadora_expressao\bin\Debug\Calculadora_expressao.exe
+C:\Users\Luis Lopes\Desktop\TRABALHOS\Csharp\Calculadora_expressao\Calculadora_expressao\Calculadora_expressao\bin\Debug\Calculadora_expressao.pdb
+C:\Users\Luis Lopes\Desktop\TRABALHOS\Csharp\Calculadora_expressao\Calculadora_expressao\Calculadora_expressao\obj\x86\Debug\Calculadora_expressao.Form1.resources
+C:\Users\Luis Lopes\Desktop\TRABALHOS\Csharp\Calculadora_expressao\Calculadora_expressao\Calculadora_expressao\obj\x86\Debug\Calculadora_expressao.Properties.Resources.resources
+C:\Users\Luis Lopes\Desktop\TRABALHOS\Csharp\Calculadora_expressao\Calculadora_expressao\Calculadora_expressao\obj\x86\Debug\Calculadora_expressao.csproj.GenerateResource.Cache
+C:\Users\Luis Lopes\Desktop\TRABALHOS\Csharp\Calculadora_expressao\Calculadora_expressao\Calculadora_expressao\obj\x86\Debug\Calculadora_expressao.exe
+C:\Users\Luis Lopes\Desktop\TRABALHOS\Csharp\Calculadora_expressao\Calculadora_expressao\Calculadora_expressao\obj\x86\Debug\Calculadora_expressao.pdb
